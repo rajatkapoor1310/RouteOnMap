@@ -10,10 +10,11 @@
    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
   
  5. Add google service dipendency in build.Gradle 
-
  6. Permisson code  in splash or while which screen need 
+ 7. After this u get distance and route view
 
   For more information please conrtact below 
+
   rajatkapoor1310@gmail.com
    
   Thank you 
